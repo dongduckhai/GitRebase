@@ -1,4 +1,3 @@
-navbar created
 footer created
 header created
 login form created
