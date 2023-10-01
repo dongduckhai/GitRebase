@@ -2,5 +2,4 @@ add navbar from main branch version 2
 add signup form from master branch
 footer created
 header created
-form 2
 login form created
